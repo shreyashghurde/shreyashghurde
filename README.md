@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @shreyashghurde
-- 👀 I’m interested in Data 
-- 🌱 I’m currently learning Data analyst packages 
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I recently completed my Electrical Engineering 
+- 🌱 I’m currently learning Data packages
 - 💞️ I’m looking forward for My First Job in data field
-- 📫 How to reach me shreyashghurde123@gmail.com
+- 📫 How to reach me shreyashghurde123@gmail.com(9588478252)
 
 <!---
 shreyashghurde/shreyashghurde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
